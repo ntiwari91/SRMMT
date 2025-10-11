@@ -1,7 +1,7 @@
 ## Requirements
 
 ``` python
-Run this notebook file
+Run this notebook file "PotatoISR_MMT.ipynb"
 ```
 
 
