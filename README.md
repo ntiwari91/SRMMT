@@ -7,6 +7,7 @@ Run this notebook file "PotatoISR_MMT.ipynb"
 
 
 ## Model
+<img width="1037" height="544" alt="image" src="https://github.com/user-attachments/assets/597e1fc6-2759-48c7-980e-8e4dbac474b0" />
 
 
 
