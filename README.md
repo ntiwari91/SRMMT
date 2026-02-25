@@ -11,6 +11,13 @@ Run this notebook file "PotatoISR_MMT.ipynb"
 
 
 
+## Results
+# Loss and Accuracy Curves
+<img width="636" height="837" alt="image" src="https://github.com/user-attachments/assets/efd1357e-18d5-4d35-911b-615faf89ddcb" />
+
+
+# Comparison with other Methods
+<img width="1060" height="401" alt="image" src="https://github.com/user-attachments/assets/fffc0ef2-363c-41ea-ae14-4d87a9e058e0" />
 
 
 
